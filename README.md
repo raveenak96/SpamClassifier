@@ -3,6 +3,7 @@ A simple Naive Bayes spam email classifier
 
 ## To train:
 python3 nblearn.py /path/to/input  
+
 Run nblearn.py, with the data directory as the only input argument. Data directory should contain directories named "ham" and "spam".  
 Generates model file "nbmodel.txt"
 
