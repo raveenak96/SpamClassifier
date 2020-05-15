@@ -2,7 +2,6 @@ import sys,os,glob,json,math
 import string, re
 
 
-################### Testing enhancements ########################
 
 def main(argv) :
     directory = argv[0]
